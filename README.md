@@ -7,7 +7,7 @@
  javac *.java          # compile the java
  java Main image.jpg   # generates output.txt
  cat output.txt        # display your new art
- ```
+ ``` 
 
  --------------------
  Sample output:
